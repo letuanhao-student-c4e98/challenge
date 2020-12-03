@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#luckynumber {
+    width:700px;
+    margin: auto ;
+    background:blue;
+}
+
+#header {
+    margin-top: 200px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#content {
+    background: rgb(0, 204, 255);
+    margin-top: 10px;
+}
+
+#p1 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#p2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#one {
+    padding-bottom: 10px;
+}
+
+#input {
+    height: 30px;
+    width: 50%;
+    padding: 2px;
+}
+
+#btn {
+    margin-left: 10px;
+    height: 30px;
+    background-color: greenyellow;
+    width: 100px;
+    border: solid 1px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    font-size: large;
+}
+
+#ketqua {
+    background-color: blanchedalmond;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#end {
+    background-color:red;
+    font-size: larger;
+    text-align: center;
+    height: 30px;
+    padding-top: 5px;
+}
